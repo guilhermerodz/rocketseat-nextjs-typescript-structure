@@ -1,0 +1,3 @@
+interface TestProps {
+  name: string
+}
